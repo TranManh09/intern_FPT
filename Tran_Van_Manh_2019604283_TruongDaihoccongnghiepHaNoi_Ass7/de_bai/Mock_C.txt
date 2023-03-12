@@ -1,0 +1,12 @@
+Mock Project
+
+Viết chương trình parse file định dạng srecord
+•    Kiểm tra lỗi và in ra màn hình nếu có (dòng bị lỗi và chi tiết lỗi)
+•    In ra file Output.txt với nội dung gồm các dòng, mỗi dòng gồm số thứ tự, Address và Data, 
+cách nhau bởi khoảng trắng (space)
+
+Link ref: https://en.wikipedia.org/wiki/SREC_(file_format)
+Gửi kèm file srec mẫu (giảng viên gửi lại sau).
+
+
+Timeline: 25/2/2023 - 4/3/2023
